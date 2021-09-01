@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![ Alt text](Assests/expense1.gif) [](Assests/expense1.gif)
+![ Alt text](Assests/expense2.gif) [](Assests/expense2.gif)
+![ Alt text](Assests/expense3.gif) [](Assests/expense3.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
